@@ -46,24 +46,23 @@ content = """
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My First Website</title>
+    <title>Computer Network Protocols</title>
 </head>
 <body>
-    <h1>Welcome to My Website!</h1>
-    <p>This is my first web page using Python.</p>
+    <h1>List of Computer Network Protocols</h1>
 
-    <h2>About Me</h2>
-    <p>I am learning web development.</p>
-
-    <h2>My Skills</h2>
-    <ul>
-        <li>Python</li>
-        <li>HTML</li>
-        <li>CSS</li>
-    </ul>
-
-    <h2>Contact</h2>
-    <p>Email: student@example.com</p>
+    <ol>
+        <li>HTTP - Hypertext Transfer Protocol</li>
+        <li>HTTPS - Hypertext Transfer Protocol Secure</li>
+        <li>FTP - File Transfer Protocol</li>
+        <li>TCP - Transmission Control Protocol</li>
+        <li>IP - Internet Protocol</li>
+        <li>UDP - User Datagram Protocol</li>
+        <li>DNS - Domain Name System</li>
+        <li>SMTP - Simple Mail Transfer Protocol</li>
+        <li>POP3 - Post Office Protocol</li>
+        <li>SSH - Secure Shell</li>
+    </ol>
 </body>
 </html>
 """
